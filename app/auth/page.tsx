@@ -1,4 +1,4 @@
-
+export const dynamic = 'force-dynamic';
 import Link from 'next/link';
 import FluidCanvas from '@/components/ui/components/FluidCanvas';
 import SignUpForm from '@/components/ui/components/SignUpForm';
